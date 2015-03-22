@@ -1,1 +1,2 @@
-# cs50
+# CS50
+This is a project for me to practice and renew computer science, I really want to finish it, Cause I don't think I have enough time, so... 
