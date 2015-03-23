@@ -1,3 +1,9 @@
 #include <stdio.h>
 
-int maknj
+int main(void)
+{
+    for (char c = 'A'; c <= 'Z'; c++)
+    {
+        printf("%i is %c\n", (char) c, c);
+    }
+}
